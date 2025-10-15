@@ -22,10 +22,6 @@
 
 **Languages and Tools:** 
 
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
-  </a>
-
 <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
@@ -44,7 +40,6 @@
   <br />
 </p>
 <br />
-و
 
 <p align="center">
   <a href="https://www.patreon.com/onimur" target="_blank">
