@@ -10,8 +10,7 @@
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-<!--<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />-->
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
 - 🌱 Currently learning the Laravel framework 
 - 👨🏽‍💻 Studying Js and integrating it with Larave
