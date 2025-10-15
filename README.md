@@ -16,9 +16,9 @@
 - 👨🏽‍💻 Studying Js and integrating it with Larave ;
 - 👯 Improving my Vue.js skills for Laravel integration ;
 - 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in in Computer Engineering, IT concentration;
-- 📫 How to reach me: omaraboamer3430@gmail.com;
+- 💬 Ask me about anything, I am happy to help ;
+- ⚡️ Fun-Fact: I have a degree in in Computer Engineering, IT concentration ;
+- 📫 How to reach me: omaraboamer3430@gmail.com ;
 
 **Languages and Tools:** 
 
