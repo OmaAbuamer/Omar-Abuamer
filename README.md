@@ -1,4 +1,10 @@
 <!-- Your title -->
+
+<p align="center">
+ <img  width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
+  
+<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
+
 ## Hi, I'm Omar Abuamer, a Back-end Developer 🚀
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/OmaAbuamer)
