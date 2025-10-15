@@ -14,7 +14,7 @@
 
 - 🌱 Currently learning the Laravel framework ; 
 - 👨🏽‍💻 Studying Js and integrating it with Larave ;
-- 👯 Improving my Vue.js skills for Laravel integration;
+- 👯 Improving my Vue.js skills for Laravel integration
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help ;
 - ⚡️ Fun-Fact: I have a degree in in Computer Engineering, IT concentration ;
