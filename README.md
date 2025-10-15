@@ -1,6 +1,6 @@
 
 <!-- Hi -->
-[<img src="https://raw.githubusercontent.com/Omar/Omar/master/intro.gif" alt="" title="👋Hello there! My name is (Omar(111|nd Li)|https://github OmaAbuamer)"/>](https://github/OmaAbuamer/)
+[<img src="https://raw.githubusercontent.com/Omar111/Omar111/master/intro.gif" alt="" title="👋Hello there! My name is (Omar(111|nd Li)|https://github OmaAbuamer)"/>](https://github/OmaAbuamer/)
 <h2 align="center">Hello there! My name is Omar Abuamer Backend Developer 👋🤓</h2>
 
 <!--
