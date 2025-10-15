@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in in Computer Engineering, IT concentration;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+- 📫 How to reach me: omaraboamer3430@gmail.com;
 
 **Languages and Tools:** 
 
