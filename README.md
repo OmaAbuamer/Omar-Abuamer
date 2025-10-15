@@ -1,10 +1,5 @@
-<!-- Your title -->
 
-<p align="center">
- <img  width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
-
-## Hi, I'm Omar Abuamer, a Back-end Developer 🚀
-
+<!-- Hi -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/OmaAbuamer)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D8%B9%D9%85%D8%B1-%D8%A7%D8%A8%D9%88-%D8%B9%D9%85%D8%B1-b79a2b38a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
