@@ -52,14 +52,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br />
 </p>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
-</p>
-
 ## Support me
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
