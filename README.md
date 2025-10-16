@@ -1,4 +1,4 @@
-<br />
+
 <h2 align="center">Hello there! My name is Omar Abuamer Backend Developer 👋🤓</h2>
 <br />
 
