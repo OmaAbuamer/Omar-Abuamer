@@ -8,10 +8,7 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
 
 &nbsp;
-
-
-<a href='[https://www.linkedin.com/in/rahul-jha98/](https://www.linkedin.com/in/%D8%B9%D9%85%D8%B1-%D8%A7%D8%A8%D9%88-%D8%B9%D9%85%D8%B1-b79a2b38a/)'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-
+<br />
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
