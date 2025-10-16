@@ -8,8 +8,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
 &nbsp;
+<br />
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-  
+  <br />
 - 🌱 Currently learning the Laravel framework 
 - 👨🏽‍💻 Studying Js and integrating it with Larave
 - 👯 Improving my Vue.js skills for Laravel integration
