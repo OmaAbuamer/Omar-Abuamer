@@ -18,8 +18,6 @@
 - ⚡️ Fun-Fact: I have a degree in Computer Engineering, IT 
 - 📫 How to reach me: omaraboamer3430@gmail.com 
 
-**Languages and Tools:** 
-
 <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
